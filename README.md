@@ -1,5 +1,7 @@
-**This is a Blog Website where you can express your ideas and thought...
+**This is a Blog Website where you can express your ideas and thought...**
 
+**Live Preview**
+**Link**: blogosphere-iota.vercel.app
 
 **Use your preferred IDE**
 
